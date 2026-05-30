@@ -164,6 +164,7 @@ LIMIT 25;
 
 *Table of the most optimal skills for data engineer sorted by salary*
 
+
 **Most Optimal Skills for Data Engineers in 2025 - Key Insights**
 
 • **SQL and Python remain the foundational skills for high-paying Data Engineer roles,** appearing in 218 and 213 job postings respectively, making them the most consistently demanded technologies across the market.  
