@@ -107,7 +107,7 @@ ORDER BY tpj.salary_year_avg DESC;
 ![Alt Text](../Project_sql/Images/Picture2.png)
 
 ### 3. Most Optimal Skills for Data Engineers 
-This query combines demand and salary metrics to identify the most valuable skills for data engineers—those that are both highly sought after and associated with higher salaries.
+This query combines demand and salary metrics to identify the most valuable skills for data engineers - those that are both highly sought after and associated with higher salaries.
 
 ```sql
 SELECT
