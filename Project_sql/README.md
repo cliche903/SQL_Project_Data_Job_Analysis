@@ -1,8 +1,8 @@
-# 🖊️ Introduction
+# 🖊️Introduction
 Exploring the data engineering job market 
 👉 uncovering high-paying opportunities, in-demand skills, and the intersection of strong demand and competitive salaries.
 
-# 📰 Background
+# 📰Background
 Motivated by a desire to better understand the data engineer job market, this project was created to identify the most in-demand and highest-paying skills, helping job seekers focus on opportunities with the greatest potential.
 
 The data for this project comes from [Luke Barousse's SQL for Data Analytics](https://www.lukebarousse.com/sql), which includes valuable insights into job titles, salaries, locations, and key technical skills.
@@ -13,7 +13,7 @@ The data for this project comes from [Luke Barousse's SQL for Data Analytics](ht
 2. What skills are required for these top-paying jobs?  
 3. What are the most optimal skills to learn?  
 
-# 🧰 Tools I Used
+# 🧰Tools I Used
 For this deep dive into the data engineer job market, I utilized several essential tools:  
 
 **SQL:** Used to query and analyze the dataset, uncovering valuable insights from the job market data.  
@@ -175,5 +175,5 @@ LIMIT 25;
 
 • **Specialized skills can yield the highest average salaries,** with **GDPR ($197.9K), Java ($175.6K), Kubernetes ($161.6K), and Go ($152.4K)** leading the salary rankings despite appearing in fewer job postings, suggesting employers pay a premium for niche expertise combined with data engineering experience.
 
-# 📋 Conclusions
+# 📋Conclusions
 This project enhanced my SQL skills and provided valuable insights into the data engineer job market. The findings from the analysis serve as a guide to prioritizing skill development and job search efforts. Aspiring data engineers can better position themselves in a competitive job market by focusing on high-demand, high-salary skills. This exploration highlights the importance of continuous learning and adaptation to emerging trends in the field of data engineering.
