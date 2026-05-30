@@ -175,5 +175,5 @@ LIMIT 25;
 
 • **Specialized skills can yield the highest average salaries,** with **GDPR ($197.9K), Java ($175.6K), Kubernetes ($161.6K), and Go ($152.4K)** leading the salary rankings despite appearing in fewer job postings, suggesting employers pay a premium for niche expertise combined with data engineering experience.
 
-# 📋Conclusions
+# 📋Conclusion
 This project enhanced my SQL skills and provided valuable insights into the data engineer job market. The findings from the analysis serve as a guide to prioritizing skill development and job search efforts. Aspiring data engineers can better position themselves in a competitive job market by focusing on high-demand, high-salary skills. This exploration highlights the importance of continuous learning and adaptation to emerging trends in the field of data engineering.
