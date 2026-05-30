@@ -1,5 +1,6 @@
 # 🖊️ Introduction
-Exploring the data engineering job market 👉 uncovering high-paying opportunities, in-demand skills, and the intersection of strong demand and competitive salaries.
+Exploring the data engineering job market 
+👉 uncovering high-paying opportunities, in-demand skills, and the intersection of strong demand and competitive salaries.
 
 # 📰 Background
 Motivated by a desire to better understand the data engineer job market, this project was created to identify the most in-demand and highest-paying skills, helping job seekers focus on opportunities with the greatest potential.
