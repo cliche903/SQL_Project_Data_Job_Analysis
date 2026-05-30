@@ -21,7 +21,7 @@ For this deep dive into the data engineer job market, I utilized several essenti
 **Visual Studio Code:** Used for writing, managing, and executing SQL queries efficiently.  
 **Git & GitHub:** Enabled version control, project tracking, and sharing of SQL scripts and analysis.
 
-# 📊 The Analysis
+# 📊The Analysis
 Each query targets a specific angle of the data engineer job market. Here's the thinking behind them:  
 
 ### 1. Top Paying Data Engineer Jobs  
