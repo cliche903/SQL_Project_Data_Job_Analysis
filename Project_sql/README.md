@@ -161,7 +161,6 @@ LIMIT 25;
 | 76       | oracle     | 20           |            118,851 |
 | 74       | azure      | 111          |            118,390 |
 | 186      | power bi   | 31           |            118,296 |
-
 *Table of the most optimal skills for data engineer sorted by salary*
 
 **Most Optimal Skills for Data Engineers in 2025 - Key Insights**
